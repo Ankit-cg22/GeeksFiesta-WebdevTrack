@@ -14,3 +14,6 @@
 *Submit your latest commit history's link below:*
 * [Outliers](https://github.com/abhinav-exp/Outliers/commit/a0c87c0e94c5482726d722ef233bd55188910d22)
   * [ https://teamoutliers.herokuapp.com/](https://teamoutliers.herokuapp.com/)
+
+* [Squad22](https://github.com/Ankit-cg22/Geeksfiesta-hackathon-project/commit/fa55208b9d52133d5dd18e1471bc75c8de4a2b0d)
+  * [https://squad22-geeksfiesta.netlify.app/](https://squad22-geeksfiesta.netlify.app/)
